@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>ThinkPHP3.2.3_full
